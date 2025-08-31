@@ -1,0 +1,12 @@
+backend/
+node_modules/
+dist/
+build/
+.cache/
+.next/
+out/
+coverage/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
